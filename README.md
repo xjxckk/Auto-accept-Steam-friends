@@ -12,7 +12,7 @@ You will need Python & the [Steam python library](https://github.com/ValvePython
 
 How to get your shared and identity secret: https://github.com/SteamTimeIdler/stidler/wiki/Getting-your-%27shared_secret%27-code-for-use-with-Auto-Restarter-on-Mobile-Authentication
 
-# To run in the background
+## To run in the background
 Create a shortcut to "Steam Bot.vbs" and add it to your startup folder.
 
 ## To improve
