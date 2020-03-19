@@ -47,7 +47,7 @@ def accept_invite(user):
     else:
         print("\nAdded:", user.name)
     gevent.sleep(2)
-    user.send_message("Hi, what trade do you want to do? Tell me what you have and what you want.")
+    user.send_message(config[9])
 
 try:
     result = client.login(username=config[1], password=config[3], two_factor_code=SA.get_code())
